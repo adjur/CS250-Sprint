@@ -3,7 +3,7 @@
 This repository contains my Sprint Review and Retrospective deliverable from the CS-250 final project, demonstrating how I applied Agile and Scrum practices throughout the course.
 
 **Sprint Review & Retrospective:**  
-[View the Sprint Review and Retrospective document](./Sprint_Review_and_Retrospective.pdf)
+[View the Sprint Review and Retrospective document](./[Sprint_Review_and_Retrospective.pdf](https://github.com/adjur/CS250-Sprint/blob/main/CS250%20Final%20Sprint%20Review.docx))
 
 ---
 
